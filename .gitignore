@@ -1,0 +1,5 @@
+app/notifications/target/debug/*
+app/notifications/target/*
+app/frontend/go.mod
+app/frontend/go.sum
+app/notifications/Cargo.lock
